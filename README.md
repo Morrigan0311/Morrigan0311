@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @Morrigan0311
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
-- 📫 How to reach me (209) 479 1570
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I've been playing piano for 12 years!
+<h1 align="center">"If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be."
+</h1>
+<h3 align="center">NARUTO
+</h3>
+
+<p align="center">
+  <img src="https://pa1.aminoapps.com/6369/43adbe00519fbef03a79dee122b1d51eb77e66d3_hq.gif" alt="animated" />
+</p>
 
 
-
-<!---
-Morrigan0311/Morrigan0311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
